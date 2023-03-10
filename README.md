@@ -1,6 +1,8 @@
 # APST2_Projet
 
-Il s'agit d'une mission APST2 de Sarra, Zihao.
+- Projet_1: Il s'agit du premier projet de l'APST2 de Chloé, Quentin, Sarra, Zihao
+
+- Sarra_Zihao's works：Il s'agit d'une mission APST2 de Sarra, Zihao.
 
 ## !!! Étapes nécessaires à l'utilisation !!! 
 
